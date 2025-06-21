@@ -1,0 +1,23 @@
+readme.md
+# K-Means Clustering - Cars Dataset
+
+This project applies the K-Means clustering algorithm to group cars based on various features.
+
+## Features
+- Data loading and preprocessing
+- Applying K-Means with Elbow Method
+- Cluster visualization
+
+## Dataset
+- `cars_data.csv`
+
+## Requirements
+- pandas
+- matplotlib
+- scikit-learn
+
+## How to Run
+Open and execute `k-cluster .ipynb` after uploading the dataset.
+
+## Output
+Scatter plots showing clustered groups with centroids.
