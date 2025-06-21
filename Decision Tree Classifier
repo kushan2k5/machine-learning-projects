@@ -1,0 +1,23 @@
+readme.md
+# Decision Tree Classifier - Titanic Dataset
+
+This project applies Decision Tree classification to predict survival of Titanic passengers.
+
+## Features
+- Data preprocessing
+- Decision Tree model training and testing
+- Evaluation using accuracy score
+
+## Dataset
+- `train.csv`
+
+## Requirements
+- pandas
+- scikit-learn
+- matplotlib
+
+## How to Run
+Open and execute `Decision Tree Algorithm .ipynb` after uploading the dataset.
+
+## Output
+Trained decision tree model with predictions and performance evaluation.
